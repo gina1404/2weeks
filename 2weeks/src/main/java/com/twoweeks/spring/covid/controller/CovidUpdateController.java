@@ -13,5 +13,6 @@ public class CovidUpdateController {
 	public String boardForm(){
 		return "covidUpdate/domestic";
 	}
-
+	
+	
 }
