@@ -14,4 +14,8 @@ public class CovidUpdateController {
 		return "covidUpdate/domestic";
 	}
 
+
+	public void test() {}
 }
+
+
