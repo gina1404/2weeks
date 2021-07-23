@@ -10,6 +10,8 @@
 
 <section id="content">
 	<h2>홈 화면 메인</h2>
+	
+	
 </section>
 		
 <jsp:include page="/WEB-INF/views/common/footer.jsp"/>
